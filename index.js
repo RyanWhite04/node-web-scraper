@@ -3,9 +3,9 @@ var request = require('request');
 var mkdirp = require('mkdirp');
 var cheerio = require('cheerio');
 
-href = 'http://readinglists.ucl.ac.uk/index.html?browse';
+// href = 'http://readinglists.ucl.ac.uk/index.html?browse';
 // href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
-// href = 'http://readinglists.ucl.ac.uk/departments/basco_art.html';
+href = 'http://readinglists.ucl.ac.uk/departments/basco_art.html';
 // href = 'http://readinglists.ucl.ac.uk/modules/basc1001.html';
 
 getHTML(href);
@@ -56,7 +56,6 @@ function scrape(href, html) {
 
 function getList(href, $) {
     var json = [];
-    console.log('file: ' + file);
     $('tr[data-node-uri]>td>a.nodeName').each(function() {
         var href = $(this).attr('href');
         var name = $(this).attr('title');
@@ -113,16 +112,9 @@ function saveJSON(href, json, callback) {
     dirp.join('/');
     mkdirp('json/' + dirp, function() {
         console.log('dirp: ' + dirp, 'href: ' + href);
-        fs.writeFile('json/' + path + '.json', JSON.stringify(json, null, 4), function(err){
+        fs.writeFile('json/' + file + '.json', JSON.stringify(json, null, 4), function(err){
             if (err) console.log(err);
             callback();
-            // console.log('File successfully written');
         });
     });
 }
-
-
-// fs.readFile('not.there', function(err, data) {
-//     if (err) throw err;
-//     console.log(data);
-// });
