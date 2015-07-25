@@ -1,0 +1,504 @@
+[{
+    "href": "http://readinglists.ucl.ac.uk/levels/lawscle.html",
+    "name": "Continuing Legal Education",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/laws.html",
+        "name": "Laws"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/levels/lawsg.html",
+    "name": "Graduate",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/laws.html",
+        "name": "Laws"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/levels/lawsu.html",
+    "name": "Undergraduate",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/laws.html",
+        "name": "Laws"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/bsarc_ben.html",
+    "name": "Bartlett School of Architecture",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/bscpm_ben.html",
+    "name": "Bartlett School of Construction and Project Management",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/energ_ben.html",
+    "name": "Bartlett School of Environment, Energy and Resources",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/bsgst_ben.html",
+    "name": "Bartlett School of Graduate Studies",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/bspln_ben.html",
+    "name": "Bartlett School of Planning",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/casan_ben.html",
+    "name": "Centre for Advanced Spatial Analysis",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/devpu_ben.html",
+    "name": "Development Planning Unit",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ben.html",
+        "name": "Bartlett, Faculty of Built Environment"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/econs_ses.html",
+    "name": "Economics and Business",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ssees_ses.html",
+        "name": "School of Slavonic and East European Studies"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/ssehi_shs.html",
+    "name": "History",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ssees_ses.html",
+        "name": "School of Slavonic and East European Studies"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/sseel_art.html",
+    "name": "Languages and culture",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ssees_ses.html",
+        "name": "School of Slavonic and East European Studies"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/gradu_ses.html",
+    "name": "Masters Courses",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ssees_ses.html",
+        "name": "School of Slavonic and East European Studies"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/polsc_ses.html",
+    "name": "Politics and Sociology",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/ssees_ses.html",
+        "name": "School of Slavonic and East European Studies"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/anthr_shs.html",
+    "name": "Anthropology",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/caltg_shs.html",
+    "name": "CALT (Centre for the Advancement of Learning & Teaching)",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/econs_shs.html",
+    "name": "Economics",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/geogr_shs.html",
+    "name": "Geography",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/histr_shs.html",
+    "name": "History",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/hartd_shs.html",
+    "name": "History of Art",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/arclg_shs.html",
+    "name": "Institute of Archaeology",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/amerc_shs.html",
+    "name": "Institute of the Americas",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/polsc_shs.html",
+    "name": "Political Science",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/ucl-q_int.html",
+    "name": "UCLQ",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/shs.html",
+        "name": "Social and Historical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/bengn_eng.html",
+    "name": "Biochemical Engineering",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/cengn_eng.html",
+    "name": "Chemical Engineering",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/civlg_eng.html",
+    "name": "Civil, Environmental and Geomatic Engineering",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/comps_eng.html",
+    "name": "Computer Science",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/elecn_eng.html",
+    "name": "Electronic and Electrical Engineering",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/engsc_eng.html",
+    "name": "Faculty of Engineering Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/mansc_eng.html",
+    "name": "Management Science and Innovation",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/mechn_eng.html",
+    "name": "Mechanical Engineering",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/mphys_eng.html",
+    "name": "Medical Physics and Biomedical Engineering",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/serau_eng.html",
+    "name": "School of Energy and Resources (Australia)",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/stepp_eng.html",
+    "name": "Science, Technology, Engineering and Public Policy (STEaPP)",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/secur_eng.html",
+    "name": "Security and Crime Science",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/eng.html",
+        "name": "Engineering Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/basco_art.html",
+    "name": "Arts and Sciences BASc",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/schools/lanie_art.html",
+    "name": "Centre for Languages & International Education (CLIE)",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/mudic_art.html",
+    "name": "Centre for Multidisciplinary and Intercultural Inquiry",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/publg_art.html",
+    "name": "Centre for Publishing",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/infst_art.html",
+    "name": "Department of Information Studies",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/engls_art.html",
+    "name": "English Language & Literature",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/eusps_art.html",
+    "name": "European Social and Political Studies",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/grklt_art.html",
+    "name": "Greek & Latin",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/hebrw_art.html",
+    "name": "Hebrew & Jewish Studies",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/modules/libguide.html",
+    "name": "Library Guides",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/philo_art.html",
+    "name": "Philosophy",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/schools/selcs_art.html",
+    "name": "School of European Languages, Culture and Society",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/slade_art.html",
+    "name": "Slade School of Fine Art",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/art.html",
+        "name": "Arts & Humanities"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/cmplx_map.html",
+    "name": "Centre for Mathematics and Physics in Life Sciences & Experimental Biology",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/chems_map.html",
+    "name": "Chemistry",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/earth_map.html",
+    "name": "Earth Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/maths_map.html",
+    "name": "Mathematics",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/natsc_map.html",
+    "name": "Natural Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/physa_map.html",
+    "name": "Physics and Astronomy",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/scits_map.html",
+    "name": "Science and Technology Studies",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/space_map.html",
+    "name": "Space and Climate Physics",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/departments/stats_map.html",
+    "name": "Statistical Science",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/faculties/map.html",
+        "name": "Mathematical and Physical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/faculties/brn.html",
+    "name": "Brain Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/schools/slms.html",
+        "name": "School of Life and Medical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/faculties/lif.html",
+    "name": "Life Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/schools/slms.html",
+        "name": "School of Life and Medical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/faculties/bms.html",
+    "name": "Medical Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/schools/slms.html",
+        "name": "School of Life and Medical Sciences"
+    }
+},
+{
+    "href": "http://readinglists.ucl.ac.uk/faculties/phs.html",
+    "name": "Population Health Sciences",
+    "faculty": {
+        "href": "http://readinglists.ucl.ac.uk/schools/slms.html",
+        "name": "School of Life and Medical Sciences"
+    }
+}]

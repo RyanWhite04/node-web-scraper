@@ -3,8 +3,8 @@ var request = require('request');
 var mkdirp = require('mkdirp');
 var cheerio = require('cheerio');
 
-// href = 'http://readinglists.ucl.ac.uk/index.html?browse';
-href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
+href = 'http://readinglists.ucl.ac.uk/index.html?browse';
+// href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
 // href = 'http://readinglists.ucl.ac.uk/departments/basco_art.html';
 // href = 'http://readinglists.ucl.ac.uk/modules/basc1001.html';
 
@@ -16,6 +16,12 @@ getHTML(href);
 function getHTML(href) {
 
     var file = 'html/' + href.split('.html')[0].split('http://readinglists.ucl.ac.uk/')[1] + '.html';
+
+    if (file === 'html/modules/gene_msc.html') {
+        console.log('this file is holding out');
+        return;
+    }
+
     fs.readFile(file, 'utf8', function (err, html) {
         console.log('file: ' + file);
         if (err) {
