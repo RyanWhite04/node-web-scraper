@@ -3,13 +3,16 @@ var request = require('request');
 var mkdirp = require('mkdirp');
 var cheerio = require('cheerio');
 
-// href = 'http://readinglists.ucl.ac.uk/index.html?browse';
-href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
+href = 'http://readinglists.ucl.ac.uk/index.html?browse';
+// href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
 // href = 'http://readinglists.ucl.ac.uk/departments/basco_art.html';
 // href = 'http://readinglists.ucl.ac.uk/modules/basc1001.html';
 
 getHTML(href);
 
+// first checks if html file is saved locally
+// if not saved, it will request it
+// once requested it will run scrape on the html
 function getHTML(href, callback) {
 
     var file = 'html/' + href.split('.html')[0].split('http://readinglists.ucl.ac.uk/')[1] + '.html';
@@ -23,32 +26,28 @@ function getHTML(href, callback) {
                     if (err) console.log('err: ' + err);
                     saveHTML(href, html, function() {
                         console.log('html file saved');
-                        scrape(html);
+                        scrape(href, html);
                     });
                 });
             }
         }
         else {
             console.log('file found');
-            scrape(html);
+            scrape(href, html);
         }
     });
 
 }
 
-function scrape(html) {
+// check the html to see if it is a unit or a list of units
+// if it is a list of units, run getList on the
+function scrape(href, html) {
     var $ = cheerio.load(html);
     var nodes = $('tr[data-node-uri]>td>a.nodeName');
-    var file = href.split('.html')[0].split('http://readinglists.ucl.ac.uk/')[1];
-    var dirp = file.split('/');
-    var last = dirp.pop();
-    dirp.join('/');
-    mkdirp('json/' + dirp, function() {
-        if ($('tr[data-node-uri]>td>a.nodeName').length) getList(file, $);
-        else getUnit(file, $);
-    });
-    console.log('dirp: ' + dirp, 'href: ' + href);
+    if ($('tr[data-node-uri]>td>a.nodeName').length) getList(html, $);
+    else getUnit(file, $);
 }
+
 
 function getList(file, $) {
     var json = [];
@@ -69,6 +68,7 @@ function getList(file, $) {
         // console.log('File successfully written');
     });
 }
+
 
 function getUnit(file, $) {
     var link = $('tr>td>a[href][title]').attr('href');
