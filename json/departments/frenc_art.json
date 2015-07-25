@@ -1,0 +1,62 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren1101.html",
+        "name": "FREN1101: The Making of Modern France",
+        "file": "json/modules/fren1101.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren1102.html",
+        "name": "FREN1102: Reading French Texts",
+        "file": "json/modules/fren1102.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren2102.html",
+        "name": "FREN2102: The Medieval Period",
+        "file": "json/modules/fren2102.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren2108.html",
+        "name": "FREN2108: France: Culture and Society",
+        "file": "json/modules/fren2108.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren4112.html",
+        "name": "FREN4112: Advanced French Politics",
+        "file": "json/modules/fren4112.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren4115.html",
+        "name": "FREN4115: Medieval French Literature",
+        "file": "json/modules/fren4115.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren4117.html",
+        "name": "FREN4117: Liveness: A Natural Poetics of the Seventeenth Century",
+        "file": "json/modules/fren4117.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren4118.html",
+        "name": "FREN4118: Oriental Encounters",
+        "file": "json/modules/fren4118.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren4210.html",
+        "name": "FREN4210: Gender, Race and Sexuality",
+        "file": "json/modules/fren4210.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fren4214.html",
+        "name": "FREN4214: Reading Tintin",
+        "file": "json/modules/fren4214.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/freng050.html",
+        "name": "FRENG050: Gender, Race and Sexuality: New Readings in Francophone Literature and Visual Culture",
+        "file": "json/modules/freng050.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/frengf03.html",
+        "name": "FRENGF03/6/8: The French New Wave",
+        "file": "json/modules/frengf03.json"
+    }
+]

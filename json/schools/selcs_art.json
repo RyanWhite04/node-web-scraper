@@ -1,0 +1,187 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/dutch_art.html",
+        "name": "Dutch",
+        "file": "json/departments/dutch_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs4004.html",
+        "name": "ELCS4004: Metamorphosis: The Limits of the Human",
+        "file": "json/modules/elcs4004.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs4018.html",
+        "name": "ELCS4018: Writing Shame",
+        "file": "json/modules/elcs4018.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs4024.html",
+        "name": "ELCS4024: Thinking With Women: Gender as an Early Modern Category",
+        "file": "json/modules/elcs4024.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6003.html",
+        "name": "ELCS6003: Crime Fiction: From the Picaresque to the Detective Novel",
+        "file": "json/modules/elcs6003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6005.html",
+        "name": "ELCS6005: \"Raging Broom of Madness\": Futurism and Modernity",
+        "file": "json/modules/elcs6005.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6013.html",
+        "name": "ELCS6013: Master and Slave Narratives",
+        "file": "json/modules/elcs6013.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6017.html",
+        "name": "ELCS6017: The Court Society in Early Modern Europe",
+        "file": "json/modules/elcs6017.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6022.html",
+        "name": "ELCS6022: Modern Art and Mass Culture",
+        "file": "json/modules/elcs6022.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6025.html",
+        "name": "ELCS6025: Decadence",
+        "file": "json/modules/elcs6025.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6031.html",
+        "name": "ELCS6031: Considering Narrative Structure in Film",
+        "file": "json/modules/elcs6031.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6032.html",
+        "name": "ELCS6032: Literary Responses to the First World War: Ruth Austin",
+        "file": "json/modules/elcs6032.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6040.html",
+        "name": "ELCS6040: Shorter Narrative in East and West",
+        "file": "json/modules/elcs6040.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6041.html",
+        "name": "ELCS6041: Utopias and dystopias in twentieth century literature",
+        "file": "json/modules/elcs6041.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6042.html",
+        "name": "ELCS6042: Political Cinema",
+        "file": "json/modules/elcs6042.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6045.html",
+        "name": "ELCS6045: Selling European Cinema to British Audiences in the 21st Century",
+        "file": "json/modules/elcs6045.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6049.html",
+        "name": "ELCS6049: Noir Fictions",
+        "file": "json/modules/elcs6049.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6051.html",
+        "name": "ELCS6051: Fascisms and anti-fascisms: Italy, Germany, Argentina",
+        "file": "json/modules/elcs6051.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6058.html",
+        "name": "ELCS6058: Narrating Female Virtue, From Medieval to Modern",
+        "file": "json/modules/elcs6058.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6065.html",
+        "name": "ELCS6065: The Uncanny",
+        "file": "json/modules/elcs6065.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6066.html",
+        "name": "ELCS6066: Fairy Tales: Their Origin and Evolution",
+        "file": "json/modules/elcs6066.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6069.html",
+        "name": "ELCS6069:The Power of Maps",
+        "file": "json/modules/elcs6069.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6070.html",
+        "name": "ELCS6070: The Poet in Society",
+        "file": "json/modules/elcs6070.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6075.html",
+        "name": "ELCS6075:The Autobiographical Child in the 20th Century",
+        "file": "json/modules/elcs6075.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6076.html",
+        "name": "ELCS6076: Distractions of Manhood in the 21st Century",
+        "file": "json/modules/elcs6076.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6078.html",
+        "name": "ELCS6078: Introduction to Translation Studies",
+        "file": "json/modules/elcs6078.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6081.html",
+        "name": "ELCS6081: Critical Theatre: A Historical Overview of European Theatre",
+        "file": "json/modules/elcs6081.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6084.html",
+        "name": "ELCS6084: Animation in European Cinema",
+        "file": "json/modules/elcs6084.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6085.html",
+        "name": "ELCS6085: European Theatre in Translation",
+        "file": "json/modules/elcs6085.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6086.html",
+        "name": "ELCS6086: Autobiography Beyond Self-Identity: On Belonging and Not Belonging Socially",
+        "file": "json/modules/elcs6086.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6088.html",
+        "name": "ELCS6088: Black Europe",
+        "file": "json/modules/elcs6088.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcsgg01.html",
+        "name": "ELCSGG01: Language, Culture and History",
+        "file": "json/modules/elcsgg01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/frenc_art.html",
+        "name": "French",
+        "file": "json/departments/frenc_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/germn_art.html",
+        "name": "German",
+        "file": "json/departments/germn_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/italn_art.html",
+        "name": "Italian",
+        "file": "json/departments/italn_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/scand_art.html",
+        "name": "Scandinavian Studies",
+        "file": "json/departments/scand_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/spans_art.html",
+        "name": "Spanish, Portugese & Latin American Studies",
+        "file": "json/departments/spans_art.json"
+    }
+]

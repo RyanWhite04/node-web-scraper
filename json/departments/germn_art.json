@@ -1,0 +1,87 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/eurog003.html",
+        "name": "EUROG003: Theoretical Issues in History and Literature",
+        "file": "json/modules/eurog003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ1101.html",
+        "name": "GERM1101: An Introduction to German History",
+        "file": "json/modules/germ1101.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ1105.html",
+        "name": "GERM1105: Introduction to Modern German Literature",
+        "file": "json/modules/germ1105.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ2103.html",
+        "name": "GERM2103: Aspects of German History, 1918-1945",
+        "file": "json/modules/germ2103.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ2104.html",
+        "name": "GERM2104: Politics, Culture and Society in Germany since 1945",
+        "file": "json/modules/germ2104.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ2108.html",
+        "name": "GERM2108: The Challenge of Modernity: Literature and Culture 1870-Present",
+        "file": "json/modules/germ2108.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4124.html",
+        "name": "GERM4124: Social History of the GDR",
+        "file": "json/modules/germ4124.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4126.html",
+        "name": "GERM4126: Recording Revolt: 1967 in Germany and After",
+        "file": "json/modules/germ4126.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4131.html",
+        "name": "GERM4131: Modern German Art: A Cultural History",
+        "file": "json/modules/germ4131.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4133.html",
+        "name": "GERM4133: Reading Modern Novels: An Introduction to Contemporary Literary Theory",
+        "file": "json/modules/germ4133.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4137.html",
+        "name": "GERM4137: Writing and Rewriting Marchen and Other Fantastic Tales",
+        "file": "json/modules/germ4137.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4141.html",
+        "name": "GERM4141: Psychology and Literature",
+        "file": "json/modules/germ4141.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germ4903.html",
+        "name": "GERM4903: Weimar and Nazi Film",
+        "file": "json/modules/germ4903.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germg006.html",
+        "name": "GERMG006: Social History of the GDR",
+        "file": "json/modules/germg006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germg023.html",
+        "name": "GERMG023: Modern German Art",
+        "file": "json/modules/germg023.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germg048.html",
+        "name": "GERMG048: Weimar and Nazi Film",
+        "file": "json/modules/germg048.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/germg055.html",
+        "name": "GERMG055: Psychology and Literature",
+        "file": "json/modules/germg055.json"
+    }
+]

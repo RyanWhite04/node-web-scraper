@@ -1,0 +1,47 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps1001.html",
+        "name": "ESPS1001: Introduction to European History, Politics and Philosophy",
+        "file": "json/modules/esps1001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps2101.html",
+        "name": "ESPS2101: European Integration in Historical Perspective",
+        "file": "json/modules/esps2101.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps2102.html",
+        "name": "ESPS2102: The Politics of European Integration",
+        "file": "json/modules/esps2102.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps2103.html",
+        "name": "ESPS2103: Political Violence and Intrastate Conflicts",
+        "file": "json/modules/esps2103.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps2107.html",
+        "name": "ESPS2107: Food: Consumerism and Globalisation from Free Trade to Fair Trade",
+        "file": "json/modules/esps2107.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps2301.html",
+        "name": "ESPS2301: European Union Law",
+        "file": "json/modules/esps2301.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps4401.html",
+        "name": "ESPS4401: Anarchism, Marxism and Beyond",
+        "file": "json/modules/esps4401.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps7104.html",
+        "name": "ESPS7104: Ideologies and Political Hegemony",
+        "file": "json/modules/esps7104.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/esps7401.html",
+        "name": "ESPS7401: War and Peace",
+        "file": "json/modules/esps7401.json"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitg001.html",
+        "name": "CLITG001: Modern Literary Theory",
+        "file": "json/modules/clitg001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitg002.html",
+        "name": "CLITG002: Translation Studies",
+        "file": "json/modules/clitg002.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitg003.html",
+        "name": "CLITG003: Comparative Literary Studies",
+        "file": "json/modules/clitg003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitg013.html",
+        "name": "CLITG013: Understanding and using Translation Technology I",
+        "file": "json/modules/clitg013.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitg014.html",
+        "name": "CLITG014: Understanding and using Translation Technology II",
+        "file": "json/modules/clitg014.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitg018.html",
+        "name": "CLITG018: Readings in Twentieth Century Chinese LIterature and Culture: Family, Childhood, Gender",
+        "file": "json/modules/clitg018.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clitgo15.html",
+        "name": "CLITGO15: Revolutions in literature: Writing China’s twentieth century",
+        "file": "json/modules/clitgo15.json"
+    }
+]

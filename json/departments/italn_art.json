@@ -1,0 +1,27 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/ital1102.html",
+        "name": "ITAL1102: Realism and Neorealism",
+        "file": "json/modules/ital1102.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/ital1112.html",
+        "name": "ITAL1112: Imagining the Nation: Italian Unification",
+        "file": "json/modules/ital1112.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/ital4102.html",
+        "name": "ITAL4102: Nation, Culture and Society in Italy, 1860-1915",
+        "file": "json/modules/ital4102.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/ital4110.html",
+        "name": "ITAL4110: Cultures of Tradition and Modernity in Postwar Italy",
+        "file": "json/modules/ital4110.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/italgf12.html",
+        "name": "ITALGF12: Genre in Italian Cinema",
+        "file": "json/modules/italgf12.json"
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1010.html",
+        "name": "PHIL1010: Introduction to the History of Philosophy I",
+        "file": "json/modules/phil1010.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1011.html",
+        "name": "PHIL1011: Introduction to the History of Philosophy II",
+        "file": "json/modules/phil1011.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1012.html",
+        "name": "PHIL1012: Knowledge and Reality",
+        "file": "json/modules/phil1012.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1013.html",
+        "name": "PHIL1013: Introduction to Logic II",
+        "file": "json/modules/phil1013.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1014.html",
+        "name": "PHIL1014: Introduction to Logic 1",
+        "file": "json/modules/phil1014.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1015.html",
+        "name": "PHIL1015: Introduction to Moral Philosophy",
+        "file": "json/modules/phil1015.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1016.html",
+        "name": "PHIL1016: Introduction to Political Philosophy",
+        "file": "json/modules/phil1016.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil1017.html",
+        "name": "PHIL1017: Philosophy Tutorial: Texts and Debate",
+        "file": "json/modules/phil1017.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2030.html",
+        "name": "PHIL2030: Aesthetics",
+        "file": "json/modules/phil2030.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2031.html",
+        "name": "PHIL2031: Morality and Literature",
+        "file": "json/modules/phil2031.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2032.html",
+        "name": "PHIL2032: Applied Ethics",
+        "file": "json/modules/phil2032.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2033.html",
+        "name": "PHIL2033: Metaphysics",
+        "file": "json/modules/phil2033.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2035.html",
+        "name": "PHIL2035: Knowledge",
+        "file": "json/modules/phil2035.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2038.html",
+        "name": "PHIL2038: Topics in Greek Philosophy: Plato",
+        "file": "json/modules/phil2038.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2039.html",
+        "name": "PHIL2039: Empiricism",
+        "file": "json/modules/phil2039.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2040.html",
+        "name": "PHIL2040: Marxism",
+        "file": "json/modules/phil2040.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2045.html",
+        "name": "PHIL2045: Language",
+        "file": "json/modules/phil2045.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2047.html",
+        "name": "PHIL2047: Ethics",
+        "file": "json/modules/phil2047.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil2048.html",
+        "name": "PHIL2048: Intermediate Logic",
+        "file": "json/modules/phil2048.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3031.html",
+        "name": "PHIL3031: Global Justice and Health",
+        "file": "json/modules/phil3031.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3032.html",
+        "name": "PHIL3032: Normative Ethics",
+        "file": "json/modules/phil3032.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3034.html",
+        "name": "PHIL3034: Epistemology: A Priori Knowledge",
+        "file": "json/modules/phil3034.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3039.html",
+        "name": "PHIL3039: Early Wittgenstein",
+        "file": "json/modules/phil3039.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3040.html",
+        "name": "PHIL3040: Adorno: Art and Politics",
+        "file": "json/modules/phil3040.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3041.html",
+        "name": "PHIL3041: Special Topics in Political Philosophy",
+        "file": "json/modules/phil3041.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3042.html",
+        "name": "PHIL3042: Topics in Greek Philosophy: Aristotle",
+        "file": "json/modules/phil3042.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3043.html",
+        "name": "PHIL3043: Experience",
+        "file": "json/modules/phil3043.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3044.html",
+        "name": "PHIL3044: Kant",
+        "file": "json/modules/phil3044.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3045.html",
+        "name": "PHIL3045: Mind",
+        "file": "json/modules/phil3045.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3047.html",
+        "name": "PHIL3047: Dissertation",
+        "file": "json/modules/phil3047.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3048.html",
+        "name": "PHIL3048: Philosophy of Mind and Cognitive Science",
+        "file": "json/modules/phil3048.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3050.html",
+        "name": "PHIL3050: Sartre's Philosophy",
+        "file": "json/modules/phil3050.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3054.html",
+        "name": "PHIL3054: Philosophy of Religion",
+        "file": "json/modules/phil3054.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3055.html",
+        "name": "PHIL3055: Special Topics in 19th Century Philosophy",
+        "file": "json/modules/phil3055.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3058.html",
+        "name": "PHIL3058: German Idealism",
+        "file": "json/modules/phil3058.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3060.html",
+        "name": "PHIL3060: Philosophy, Politics and Economics of Health",
+        "file": "json/modules/phil3060.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3062.html",
+        "name": "PHIL3062: Metaphysics of Science",
+        "file": "json/modules/phil3062.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3063.html",
+        "name": "PHIL3063: The Epistemology of Disagreement",
+        "file": "json/modules/phil3063.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/phil3081.html",
+        "name": "PHIL3081: Concepts",
+        "file": "json/modules/phil3081.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/philg012.html",
+        "name": "PHILG012: Graduate Studies in Metaphysics",
+        "file": "json/modules/philg012.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/philg055.html",
+        "name": "PHILG055: Philosophy of Mind and Cognitive Science",
+        "file": "json/modules/philg055.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/philga30.html",
+        "name": "PHILGA30: Graduate Studies in Metaphysics",
+        "file": "json/modules/philga30.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/philga44.html",
+        "name": "PHILGA44: Philosophy of Mind and Cognitive Science",
+        "file": "json/modules/philga44.json"
+    }
+]

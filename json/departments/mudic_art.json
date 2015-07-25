@@ -1,0 +1,27 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/programmes/eurogger.html",
+        "name": "European Studies",
+        "file": "json/programmes/eurogger.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/programmes/cltsing01.html",
+        "name": "MA Comparative Literature",
+        "file": "json/programmes/cltsing01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/programmes/ma_films.html",
+        "name": "MA Film Studies",
+        "file": "json/programmes/ma_films.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/programmes/gendg.html",
+        "name": "MA Gender Studies",
+        "file": "json/programmes/gendg.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/programmes/trang.html",
+        "name": "MA Translation Theory and Practice",
+        "file": "json/programmes/trang.json"
+    }
+]

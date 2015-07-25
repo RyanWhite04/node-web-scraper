@@ -1,0 +1,67 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/basco_art.html",
+        "name": "Arts and Sciences BASc",
+        "file": "json/departments/basco_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/schools/lanie_art.html",
+        "name": "Centre for Languages & International Education (CLIE)",
+        "file": "json/schools/lanie_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/mudic_art.html",
+        "name": "Centre for Multidisciplinary and Intercultural Inquiry",
+        "file": "json/departments/mudic_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/publg_art.html",
+        "name": "Centre for Publishing",
+        "file": "json/departments/publg_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/infst_art.html",
+        "name": "Department of Information Studies",
+        "file": "json/departments/infst_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/engls_art.html",
+        "name": "English Language & Literature",
+        "file": "json/departments/engls_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/eusps_art.html",
+        "name": "European Social and Political Studies",
+        "file": "json/departments/eusps_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/grklt_art.html",
+        "name": "Greek & Latin",
+        "file": "json/departments/grklt_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/hebrw_art.html",
+        "name": "Hebrew & Jewish Studies",
+        "file": "json/departments/hebrw_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/libguide.html",
+        "name": "Library Guides",
+        "file": "json/modules/libguide.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/philo_art.html",
+        "name": "Philosophy",
+        "file": "json/departments/philo_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/schools/selcs_art.html",
+        "name": "School of European Languages, Culture and Society",
+        "file": "json/schools/selcs_art.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/departments/slade_art.html",
+        "name": "Slade School of Fine Art",
+        "file": "json/departments/slade_art.json"
+    }
+]

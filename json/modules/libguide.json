@@ -1,0 +1,17 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/wiselib.html",
+        "name": "Library training and information skills (including WISE)",
+        "file": "json/modules/wiselib.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/rlatucl.html",
+        "name": "ReadingLists@UCL Guides",
+        "file": "json/modules/rlatucl.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/uclu.html",
+        "name": "UCLU Liberation networks",
+        "file": "json/modules/uclu.json"
+    }
+]

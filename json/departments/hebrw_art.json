@@ -1,0 +1,407 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1001.html",
+        "name": "HEBR1001: A Survey of Jewish History and Culture in the First Millennium B.C.E.",
+        "file": "json/modules/hebr1001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1002.html",
+        "name": "HEBR1002: A Survey of Jewish History and Culture in the First Millennium C.E.",
+        "file": "json/modules/hebr1002.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1003.html",
+        "name": "HEBR1003: A Survey of Jewish History and Culture from 1000 to 1800 C.E.",
+        "file": "json/modules/hebr1003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1004.html",
+        "name": "HEBR1004: A Survey of Jewish History and Culture from 1800 to the Present",
+        "file": "json/modules/hebr1004.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1005.html",
+        "name": "HEBR1005: Introduction to Classical Hebrew",
+        "file": "json/modules/hebr1005.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1006.html",
+        "name": "HEBR1006: Modern Hebrew for Beginners",
+        "file": "json/modules/hebr1006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr1007.html",
+        "name": "HEBR1007: Religion, State and Society in Modern European History",
+        "file": "json/modules/hebr1007.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5000.html",
+        "name": "HEBR5000: Sources, Methods, Skills",
+        "file": "json/modules/hebr5000.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5326.html",
+        "name": "HEBR5326: Introduction to Jewish Languages",
+        "file": "json/modules/hebr5326.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5771.html",
+        "name": "HEBR5771: Survey of Jewish History 1: The Ancient and Medieval Near East",
+        "file": "json/modules/hebr5771.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5772.html",
+        "name": "HEBR5772: Survey of Jewish History 2: From Medieval to Early Modern Europe",
+        "file": "json/modules/hebr5772.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5773.html",
+        "name": "HEBR5773: Survey of Jewish History 3: The Modern World",
+        "file": "json/modules/hebr5773.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5775.html",
+        "name": "HEBR5775: Introduction to Israeli Culture, Society and Politics",
+        "file": "json/modules/hebr5775.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr5902.html",
+        "name": "HEBR5902: HEBR5902: Introduction to Hebrew Literature: Cultural and Historical Perspectives",
+        "file": "json/modules/hebr5902.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7003.html",
+        "name": "HEBR7003: Intermediate Classical Hebrew",
+        "file": "json/modules/hebr7003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7213.html",
+        "name": "HEBR7213: Introduction to Rabbinic Hebrew",
+        "file": "json/modules/hebr7213.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7216.html",
+        "name": "HEBR7216: Moses Maimonides in Jewish Thought and History",
+        "file": "json/modules/hebr7216.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7302.html",
+        "name": "HEBR7302: Modern Hebrew (Lower Intermediate)",
+        "file": "json/modules/hebr7302.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7303.html",
+        "name": "HEBR7303: Modern Hebrew (Higher Intermediate)",
+        "file": "json/modules/hebr7303.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7304.html",
+        "name": "HEBR7304: Advanced Modern Hebrew",
+        "file": "json/modules/hebr7304.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7310.html",
+        "name": "HEBR7310: Feminist Issues in Israeli Women's Writing",
+        "file": "json/modules/hebr7310.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7313.html",
+        "name": "HEBR7313: Advanced Modern Hebrew: Newspapers",
+        "file": "json/modules/hebr7313.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7314.html",
+        "name": "HEBR7314: Advanced modern Hebrew: non-fiction",
+        "file": "json/modules/hebr7314.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7317.html",
+        "name": "HEBR7317: Family Politics in Israeli Literature",
+        "file": "json/modules/hebr7317.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7325.html",
+        "name": "HEBR7325: Palestinians and Israeli Jews in Hebrew Literature: The Politics of Representation",
+        "file": "json/modules/hebr7325.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7409.html",
+        "name": "HEBR7409 / HEBRG092 : Introduction to the Babylonian Talmud",
+        "file": "json/modules/hebr7409.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7414.html",
+        "name": "HEBR7414: Jewish Literary Aramaic",
+        "file": "json/modules/hebr7414.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7416.html",
+        "name": "HEBR7416: Introduction to Syriac",
+        "file": "json/modules/hebr7416.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7418.html",
+        "name": "HEBR7418: Ancient Hebrew and Related Inscriptions",
+        "file": "json/modules/hebr7418.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7504.html",
+        "name": "HEBR7504: Elementary Yiddish",
+        "file": "json/modules/hebr7504.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7505.html",
+        "name": "HEBR7505: Intermediate Yiddish",
+        "file": "json/modules/hebr7505.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7509.html",
+        "name": "HEBR7509 / HEBRG140: Modern Yiddish Literature through the lens of East European history",
+        "file": "json/modules/hebr7509.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7515.html",
+        "name": "HEBR7515: Yiddish Folk Culture",
+        "file": "json/modules/hebr7515.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7516.html",
+        "name": "HEBR7516: Upper Intermediate Yiddish",
+        "file": "json/modules/hebr7516.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7603.html",
+        "name": "HEBR7603: Introduction to Ugaritic",
+        "file": "json/modules/hebr7603.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7711.html",
+        "name": "HEBR7711: European Jewry and the Holocaust",
+        "file": "json/modules/hebr7711.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7721.html",
+        "name": "HEBR7721: Modern Jewish Politics",
+        "file": "json/modules/hebr7721.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7731.html",
+        "name": "HEBR7731: The Jews of Iberia and the Sephardi Diaspora",
+        "file": "json/modules/hebr7731.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7734.html",
+        "name": "HEBR7734: Jews of Central Europe: Histories, Entanglements, Transformations",
+        "file": "json/modules/hebr7734.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7740.html",
+        "name": "HEBR7740: History of the Jews in Poland",
+        "file": "json/modules/hebr7740.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7750.html",
+        "name": "HEBR7750: The Arab-Israeli Conflict",
+        "file": "json/modules/hebr7750.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7752.html",
+        "name": "HEBR7752: Metropolitan life: Jews and the city",
+        "file": "json/modules/hebr7752.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7755.html",
+        "name": "HEBR7755: Representations of trauma: Holocaust writing",
+        "file": "json/modules/hebr7755.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7759.html",
+        "name": "HEBR7759: Judaism and the Origins of Christianity",
+        "file": "json/modules/hebr7759.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7761.html",
+        "name": "HEBR7761: Britain and Israel: Conflict and Normalisation",
+        "file": "json/modules/hebr7761.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7766.html",
+        "name": "HEBR7766: Israel and the Occupied Territories",
+        "file": "json/modules/hebr7766.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7768.html",
+        "name": "HEBR7768 / HEBRG139: Greeks and Jews: Antiquity and the Modern World",
+        "file": "json/modules/hebr7768.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7769.html",
+        "name": "HEBR7769 / HEBRG144: The peace process in modern Israeli politics, 1967 - present",
+        "file": "json/modules/hebr7769.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7771.html",
+        "name": "HEBR7771 / HEBRG221 Jewish-Muslim Relations in Historical Perspective",
+        "file": "json/modules/hebr7771.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7812.html",
+        "name": "HEBR7812: Hasidism and Modernity",
+        "file": "json/modules/hebr7812.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7818.html",
+        "name": "HEBR7818: The Jewish Mystical Tradition",
+        "file": "json/modules/hebr7818.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebr7819.html",
+        "name": "HEBR7819 Introduction to Judeo-Spanish language and its literature",
+        "file": "json/modules/hebr7819.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg006.html",
+        "name": "HEBRG006: History of the Jews in Poland",
+        "file": "json/modules/hebrg006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg009.html",
+        "name": "HEBRG009: The Arab-Israeli Conflict",
+        "file": "json/modules/hebrg009.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg012.html",
+        "name": "HEBRG012: Jews of Central Europe: Histories, Entanglements, Transformations",
+        "file": "json/modules/hebrg012.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg013.html",
+        "name": "HEBRG013: Jewish Literary Aramaic",
+        "file": "json/modules/hebrg013.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg016.html",
+        "name": "HEBRG016: Yiddish Language",
+        "file": "json/modules/hebrg016.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg017.html",
+        "name": "HEBRG017: Modern Hebrew Language - Intermediate",
+        "file": "json/modules/hebrg017.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg023.html",
+        "name": "HEBRG023: Advanced modern Hebrew: non-fiction",
+        "file": "json/modules/hebrg023.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg026.html",
+        "name": "HEBRG026: Hasidism and Modernity",
+        "file": "json/modules/hebrg026.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg030.html",
+        "name": "HEBRG030: Introduction to Holocaust Studies",
+        "file": "json/modules/hebrg030.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg031.html",
+        "name": "HEBRG031: European Jewry and the Holocaust",
+        "file": "json/modules/hebrg031.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg035.html",
+        "name": "HEBRG035: Seminar in Modern Israeli Studies",
+        "file": "json/modules/hebrg035.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg038.html",
+        "name": "HEBRG038: Representations of Trauma: Holocaust Writing A",
+        "file": "json/modules/hebrg038.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg039.html",
+        "name": "HEBRG039: Rattling the Gender Agenda in Israeli Women's Writing",
+        "file": "json/modules/hebrg039.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg045.html",
+        "name": "HEBRG045: Introduction to Classical Hebrew",
+        "file": "json/modules/hebrg045.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg048.html",
+        "name": "HEBRG048 / HEBR7303: Modern Hebrew (Higher Intermediate)",
+        "file": "json/modules/hebrg048.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg069.html",
+        "name": "HEBRG069: Judaism and the Origins of Christianity",
+        "file": "json/modules/hebrg069.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg083.html",
+        "name": "HEBRG083: Syriac",
+        "file": "json/modules/hebrg083.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg104.html",
+        "name": "HEBRG104: Britain and Israel: Conflict and Normalisation",
+        "file": "json/modules/hebrg104.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg106.html",
+        "name": "HEBRG106: The Jews of Iberia and Sephardi Culture",
+        "file": "json/modules/hebrg106.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg128.html",
+        "name": "HEBRG128: Israel and the Occupied Territories",
+        "file": "json/modules/hebrg128.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg140.html",
+        "name": "HEBRG140: Modern Yiddish Literature through the lens of East European history",
+        "file": "json/modules/hebrg140.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg142.html",
+        "name": "HEBRG142: Metropolitan Life: Jews and the City",
+        "file": "json/modules/hebrg142.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg145.html",
+        "name": "HEBRG145: Modern Hebrew",
+        "file": "json/modules/hebrg145.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg148.html",
+        "name": "HEBRG148: Palestinians and israeli Jews in Hebrew Literature: The Politics of Representation",
+        "file": "json/modules/hebrg148.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg216.html",
+        "name": "HEBRG216: Moses Maimonides in Jewish Thought and History",
+        "file": "json/modules/hebrg216.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg217.html",
+        "name": "HEBRG217: Judeo-Spanish Language and Its Literature",
+        "file": "json/modules/hebrg217.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg218.html",
+        "name": "HEBRG218: Ancient Hebrew and Related Inscriptions",
+        "file": "json/modules/hebrg218.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg221.html",
+        "name": "HEBRG221 / HEBR7771:  Jewish-Muslim Relations in Historical Perspective",
+        "file": "json/modules/hebrg221.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/hebrg333.html",
+        "name": "HEBRG333: MA Jewish Studies Core Course",
+        "file": "json/modules/hebrg333.json"
+    }
+]

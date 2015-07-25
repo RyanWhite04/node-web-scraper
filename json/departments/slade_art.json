@@ -1,0 +1,22 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fina1001.html",
+        "name": "FINA1001: Art environments",
+        "file": "json/modules/fina1001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fina2001.html",
+        "name": "FINA2001: History and Theory of Art",
+        "file": "json/modules/fina2001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/fina6606.html",
+        "name": "FINA6606: Methodologies of drawing",
+        "file": "json/modules/fina6606.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/finag004.html",
+        "name": "FINAG004: First Year Coursework",
+        "file": "json/modules/finag004.json"
+    }
+]

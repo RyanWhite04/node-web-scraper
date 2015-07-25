@@ -1,0 +1,27 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgf07.html",
+        "name": "ENGLGF07: Crime Scenes",
+        "file": "json/modules/englgf07.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/filmg006.html",
+        "name": "FILMG006: Hong Kong Cinema: City and Screen",
+        "file": "json/modules/filmg006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/filmgg01.html",
+        "name": "FILMGG01: MA Film Studies Core Course",
+        "file": "json/modules/filmgg01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/filmgg02.html",
+        "name": "FILMGG02: Reading Films (Research Methods)",
+        "file": "json/modules/filmgg02.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/frengf01.html",
+        "name": "FRENGF01: Theories and Practices of Film",
+        "file": "json/modules/frengf01.json"
+    }
+]

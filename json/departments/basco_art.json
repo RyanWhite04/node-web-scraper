@@ -1,0 +1,32 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/basc1001.html",
+        "name": "BASC1001: Approaches to Knowledge: Introduction to Interdisciplinarity",
+        "file": "json/modules/basc1001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/basc1002.html",
+        "name": "BASC1002: Interdisciplinary Research Methods",
+        "file": "json/modules/basc1002.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/basc2001.html",
+        "name": "BASC2001: Object Lessons: Communicating Knowledge Through Collections",
+        "file": "json/modules/basc2001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/basc2003.html",
+        "name": "BASC2003: Qualitative Thinking",
+        "file": "json/modules/basc2003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/basc2004.html",
+        "name": "BASC2004: Creative Writing",
+        "file": "json/modules/basc2004.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/basc2032.html",
+        "name": "BASC2032: Evolution and the Human Condition",
+        "file": "json/modules/basc2032.json"
+    }
+]

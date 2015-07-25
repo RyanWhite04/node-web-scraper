@@ -1,0 +1,22 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/dutc1101.html",
+        "name": "DUTC1101: Born out of Rebellion: The Netherlands from the Dutch Revolt to the Eve of World War I",
+        "file": "json/modules/dutc1101.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/dutc4203.html",
+        "name": "DUTC4203: Dutch renaissance and the Golden Age",
+        "file": "json/modules/dutc4203.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/dutc4502.html",
+        "name": "DUTC4502: Advanced Translation from Dutch into English",
+        "file": "json/modules/dutc4502.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/dutcg502.html",
+        "name": "DUTCG502: Advanced Translation from Dutch into English",
+        "file": "json/modules/dutcg502.json"
+    }
+]

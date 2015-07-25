@@ -1,0 +1,232 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/disdoctoral.html",
+        "name": "DIS Doctoral studies research seminar",
+        "file": "json/modules/disdoctoral.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/inst1003.html",
+        "name": "INST1003: Information Systems: Rae Harbird",
+        "file": "json/modules/inst1003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg001.html",
+        "name": "INSTG001: Access and Use of Archives and Records",
+        "file": "json/modules/instg001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg003.html",
+        "name": "INSTG003: Archival Description",
+        "file": "json/modules/instg003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg004.html",
+        "name": "INSTG004: Cataloguing and Classification 1",
+        "file": "json/modules/instg004.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg005.html",
+        "name": "INSTG005: Cataloguing and Classification 2: Thesaurus Construction",
+        "file": "json/modules/instg005.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg006.html",
+        "name": "INSTG006: Collection Management and Preservation",
+        "file": "json/modules/instg006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg007.html",
+        "name": "INSTG007: Database Systems Analysis and Design",
+        "file": "json/modules/instg007.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg008.html",
+        "name": "INSTG008: Digital Resources in the Humanities",
+        "file": "json/modules/instg008.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg012.html",
+        "name": "INSTG012: Historical Bibliography",
+        "file": "json/modules/instg012.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg014.html",
+        "name": "INSTG014: Information Sources and Retrieval",
+        "file": "json/modules/instg014.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg017.html",
+        "name": "INSTG017: Internet Technologies",
+        "file": "json/modules/instg017.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg018.html",
+        "name": "INSTG018: Introduction to Programming and Database Querying",
+        "file": "json/modules/instg018.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg019.html",
+        "name": "INSTG019: Legal and Social Aspects",
+        "file": "json/modules/instg019.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg020.html",
+        "name": "INSTG020: Introduction to Management",
+        "file": "json/modules/instg020.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg021.html",
+        "name": "INSTG021: The Record-keeping Professional",
+        "file": "json/modules/instg021.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg026.html",
+        "name": "INSTG026: Principles of archives and records management",
+        "file": "json/modules/instg026.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg027.html",
+        "name": "INSTG027: Principles of Computing and Information Technology A",
+        "file": "json/modules/instg027.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg029.html",
+        "name": "INSTG029: Principles of Computing and Information Technology B2",
+        "file": "json/modules/instg029.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg030.html",
+        "name": "INSTG030: Professional Awareness",
+        "file": "json/modules/instg030.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg032.html",
+        "name": "INSTG032: Creation and Capture",
+        "file": "json/modules/instg032.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg033.html",
+        "name": "INSTG033: Server Programming and Structured Data",
+        "file": "json/modules/instg033.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg035.html",
+        "name": "INSTG035: Systems Management",
+        "file": "json/modules/instg035.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg036.html",
+        "name": "INSTG036: Web Publishing",
+        "file": "json/modules/instg036.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg037.html",
+        "name": "INSTG037: XML",
+        "file": "json/modules/instg037.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg038.html",
+        "name": "INSTG038: Electronic Publishing A",
+        "file": "json/modules/instg038.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg041.html",
+        "name": "INSTG041: Encoded archival description and digitisation",
+        "file": "json/modules/instg041.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg045.html",
+        "name": "INSTG045: Publishing, Culture and Society",
+        "file": "json/modules/instg045.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg046.html",
+        "name": "INSTG046: Publishing Business",
+        "file": "json/modules/instg046.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg053.html",
+        "name": "INSTG053: Fundamentals of Information Science A",
+        "file": "json/modules/instg053.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg055.html",
+        "name": "INSTG055: Publishing Today",
+        "file": "json/modules/instg055.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg056.html",
+        "name": "INSTG056: Commissioning, Project Management and Research",
+        "file": "json/modules/instg056.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg057.html",
+        "name": "INSTG057: Sales, Marketing and Promotion",
+        "file": "json/modules/instg057.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg058.html",
+        "name": "INSTG058: Oral History: Creation to Curation",
+        "file": "json/modules/instg058.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg059.html",
+        "name": "INSTG059: Concepts and Contexts",
+        "file": "json/modules/instg059.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg060.html",
+        "name": "INSTG060: Curation and Stewardship",
+        "file": "json/modules/instg060.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg062.html",
+        "name": "INSTG062: Knowledge Representation and Semantic Technologies",
+        "file": "json/modules/instg062.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg064.html",
+        "name": "INSTG064: Introduction to Digital Curation",
+        "file": "json/modules/instg064.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg066.html",
+        "name": "INSTG066: Applied Creativity",
+        "file": "json/modules/instg066.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg067.html",
+        "name": "INSTG067: Author Management",
+        "file": "json/modules/instg067.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg068.html",
+        "name": "INSTG068: Publishing Skills",
+        "file": "json/modules/instg068.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg072.html",
+        "name": "INSTG072: Children's Publishing",
+        "file": "json/modules/instg072.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg073.html",
+        "name": "INSTG073: Advanced Trade Publishing",
+        "file": "json/modules/instg073.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg074.html",
+        "name": "INSTG074: Textbook Publishing",
+        "file": "json/modules/instg074.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg076.html",
+        "name": "INSTG076: Advanced information literacy",
+        "file": "json/modules/instg076.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/instg099.html",
+        "name": "INSTG099: Postgraduate Research and Dissertation",
+        "file": "json/modules/instg099.json"
+    }
+]

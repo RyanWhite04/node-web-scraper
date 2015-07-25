@@ -1,0 +1,32 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgc01.html",
+        "name": "ENGLGC01: Issues in Modern Culture: Authors",
+        "file": "json/modules/englgc01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgc03.html",
+        "name": "ENGLGC03: Special Topics in Modern Culture 1",
+        "file": "json/modules/englgc03.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgc04.html",
+        "name": "ENGLGC04: Special Topics in Modern Culture 2",
+        "file": "json/modules/englgc04.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgc05.html",
+        "name": "ENGLGC05: Special Topics in Modern Culture 3",
+        "file": "json/modules/englgc05.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgc06.html",
+        "name": "ENGLGC06: Special Topics in Modern Culture 4",
+        "file": "json/modules/englgc06.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/tmaengsi.html",
+        "name": "TMAENGSI: MA English: Issues in Modern Culture",
+        "file": "json/modules/tmaengsi.json"
+    }
+]

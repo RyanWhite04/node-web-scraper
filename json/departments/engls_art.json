@@ -1,0 +1,282 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/elcs6083.html",
+        "name": "ELCS6083: Representations of Southern Europe in Northern European Art and Literature: Northern South",
+        "file": "json/modules/elcs6083.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl1001.html",
+        "name": "ENGL1001: Narrative Texts / Intellectual and Cultural Sources",
+        "file": "json/modules/engl1001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl1002.html",
+        "name": "ENGL1002: Introduction to Medieval Literature (Old and Middle English)",
+        "file": "json/modules/engl1002.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl1003.html",
+        "name": "ENGL1003: Approaches to Criticism",
+        "file": "json/modules/engl1003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl1004.html",
+        "name": "ENGL1004: Introduction to English Literature",
+        "file": "json/modules/engl1004.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl2001.html",
+        "name": "ENGL2001: Chaucer and his Literary Background",
+        "file": "json/modules/engl2001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3002.html",
+        "name": "ENGL3002: Shakespeare",
+        "file": "json/modules/engl3002.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3003.html",
+        "name": "ENGL3003: Renaissance Literature",
+        "file": "json/modules/engl3003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3005.html",
+        "name": "ENGL3005: The Restoration and the 18th century",
+        "file": "json/modules/engl3005.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3006.html",
+        "name": "ENGL3006: The Romantic Period",
+        "file": "json/modules/engl3006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3007.html",
+        "name": "ENGL3007: The Victorian Period",
+        "file": "json/modules/engl3007.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3009.html",
+        "name": "ENGL3009: Old English Literature I",
+        "file": "json/modules/engl3009.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3010.html",
+        "name": "ENGL3010: Old English Literature II",
+        "file": "json/modules/engl3010.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3012.html",
+        "name": "ENGL3012: Modern English Language",
+        "file": "json/modules/engl3012.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3018.html",
+        "name": "ENGL3018: Old Icelandic",
+        "file": "json/modules/engl3018.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3021.html",
+        "name": "ENGL3021: Literary Representations and the History of Homosexuality",
+        "file": "json/modules/engl3021.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3022.html",
+        "name": "ENGL3022: Middle English Literature I",
+        "file": "json/modules/engl3022.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3023.html",
+        "name": "ENGL3023: Middle English Literature II",
+        "file": "json/modules/engl3023.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3025.html",
+        "name": "ENGL3025: The Modern Period I",
+        "file": "json/modules/engl3025.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3026.html",
+        "name": "ENGL3026: The Modern Period II",
+        "file": "json/modules/engl3026.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3901.html",
+        "name": "ENGL3901: Chaucer and his Literary Background: Special Topic",
+        "file": "json/modules/engl3901.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3902.html",
+        "name": "ENGL3902: Shakespeare: Special Topic",
+        "file": "json/modules/engl3902.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3903.html",
+        "name": "ENGL3903: Renaissance Literature 1520-1674: Special Topic",
+        "file": "json/modules/engl3903.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3905.html",
+        "name": "ENGL3905: The Restoration and the 18th century: Special Author or Topic",
+        "file": "json/modules/engl3905.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3906.html",
+        "name": "ENGL3906: The Romantic Period",
+        "file": "json/modules/engl3906.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3907.html",
+        "name": "ENGL3907: The Victorian Period: Special Author or Topic",
+        "file": "json/modules/engl3907.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3909.html",
+        "name": "ENGL3909: Old English Literature I: Special Author or Topic",
+        "file": "json/modules/engl3909.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3910.html",
+        "name": "ENGL3910: Old English Literature II: Special Author or Topic",
+        "file": "json/modules/engl3910.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3918.html",
+        "name": "ENGL3918: Old Icelandic: Special Topic",
+        "file": "json/modules/engl3918.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3921.html",
+        "name": "ENGL3921: Literary Representations and the History of Homosexuality",
+        "file": "json/modules/engl3921.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3922.html",
+        "name": "ENGL3922: Middle English Literature I: Special Author or Topic",
+        "file": "json/modules/engl3922.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3923.html",
+        "name": "ENGL3923: Middle English Literature II",
+        "file": "json/modules/engl3923.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3925.html",
+        "name": "ENGL3925: The Modern Period I: Special Author or Topic",
+        "file": "json/modules/engl3925.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl3926.html",
+        "name": "ENGL3926: The Modern Period II: Special Author or Topic",
+        "file": "json/modules/engl3926.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6001.html",
+        "name": "ENGL6001: Narrative Texts",
+        "file": "json/modules/engl6001.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6002.html",
+        "name": "ENGL6002: Introduction to Old English",
+        "file": "json/modules/engl6002.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6003.html",
+        "name": "ENGL6003: Introduction to Middle English",
+        "file": "json/modules/engl6003.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6004.html",
+        "name": "ENGL6004: Introduction to Old and Middle English",
+        "file": "json/modules/engl6004.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6005.html",
+        "name": "ENGL6005: Chaucer and his Literary Background",
+        "file": "json/modules/engl6005.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6006.html",
+        "name": "ENGL6006: Shakespeare",
+        "file": "json/modules/engl6006.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6007.html",
+        "name": "ENGL6007: Renaissance Literature 1520-1674",
+        "file": "json/modules/engl6007.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6009.html",
+        "name": "ENGL6009: The Victorian Period",
+        "file": "json/modules/engl6009.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6013.html",
+        "name": "ENGL6013: Old English Literature I",
+        "file": "json/modules/engl6013.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6015.html",
+        "name": "ENGL6015: Middle English Literature I",
+        "file": "json/modules/engl6015.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl6019.html",
+        "name": "ENGL6019: Criticism and Theory",
+        "file": "json/modules/engl6019.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl7007.html",
+        "name": "ENGL7007:  The Victorian Period (year 2 option choice for module registration)",
+        "file": "json/modules/engl7007.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl7012.html",
+        "name": "ENGL7012:  Modern English Language (year 2 option choice for module registration)",
+        "file": "json/modules/engl7012.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl7018.html",
+        "name": "ENGL7018: Old Icelandic (year 2 option choice for module registration)",
+        "file": "json/modules/engl7018.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/engl7025.html",
+        "name": "ENGL7025:  The Modern Period I (year 2 option choice for module registration)",
+        "file": "json/modules/engl7025.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgc01.html",
+        "name": "ENGLGC01: Issues in Modern Culture: Authors",
+        "file": "json/modules/englgc01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgm02.html",
+        "name": "ENGLGM02: Modern English Grammar",
+        "file": "json/modules/englgm02.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgm03.html",
+        "name": "ENGLGM03: Topics in Modern English Linguistics",
+        "file": "json/modules/englgm03.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgs01.html",
+        "name": "ENGLGS01: Shakespeare in His Time",
+        "file": "json/modules/englgs01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgs02.html",
+        "name": "ENGLGS02: Shakespeare's Afterlives",
+        "file": "json/modules/englgs02.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/englgs03.html",
+        "name": "ENGLGS03: Research methods",
+        "file": "json/modules/englgs03.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/programmes/tmaengsimc01.html",
+        "name": "TMAENGSIMC01: MA English: Issues in Modern Culture",
+        "file": "json/programmes/tmaengsimc01.json"
+    }
+]

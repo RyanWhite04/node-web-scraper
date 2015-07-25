@@ -1,0 +1,107 @@
+[
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas1202.html",
+        "name": "CLAS1202: Roman Life and Thought",
+        "file": "json/modules/clas1202.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas1207.html",
+        "name": "CLAS1207: Politics Ancient and Modern [BASc]",
+        "file": "json/modules/clas1207.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas3101.html",
+        "name": "CLAS3101: Roman drama",
+        "file": "json/modules/clas3101.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas3202.html",
+        "name": "CLAS3202: The Philosophy of Aristotle",
+        "file": "json/modules/clas3202.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas7113.html",
+        "name": "CLAS7113: The world of Latin letters",
+        "file": "json/modules/clas7113.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas7115.html",
+        "name": "CLAS7115: Classics and Literary Theory",
+        "file": "json/modules/clas7115.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clas7205.html",
+        "name": "CLAS7205: The Dialogues of Plato",
+        "file": "json/modules/clas7205.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasg010.html",
+        "name": "CLASG010: Vergil",
+        "file": "json/modules/clasg010.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgl10.html",
+        "name": "CLASGL10: Early-modern Latin poetry",
+        "file": "json/modules/clasgl10.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgl15.html",
+        "name": "CLASGL15: Dionysus in Rome",
+        "file": "json/modules/clasgl15.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgl16.html",
+        "name": "CLASGL16: Dionysus in Rome",
+        "file": "json/modules/clasgl16.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgl19.html",
+        "name": "CLASGL19: Cicero: Rhetoric and Politics 2",
+        "file": "json/modules/clasgl19.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgl20.html",
+        "name": "CLASGL20: Cicero: Rhetoric and Politics 2",
+        "file": "json/modules/clasgl20.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgr01.html",
+        "name": "CLASGR01: Approaches to the Reception of the Classical World",
+        "file": "json/modules/clasgr01.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgr03.html",
+        "name": "CLASGR03: Ancient Rome on Film",
+        "file": "json/modules/clasgr03.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgr11.html",
+        "name": "CLASGR11: Ancient Rome on Film",
+        "file": "json/modules/clasgr11.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/clasgr12.html",
+        "name": "CLASGR12: Approaches to the Reception of the Classical World",
+        "file": "json/modules/clasgr12.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/latn3015.html",
+        "name": "LATN3015: Latin Poetry & its Translations: Horace Odes Book 3",
+        "file": "json/modules/latn3015.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/latn3433.html",
+        "name": "LATN3433: Cicero",
+        "file": "json/modules/latn3433.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/latn3435.html",
+        "name": "LATN3435: Vergil",
+        "file": "json/modules/latn3435.json"
+    },
+    {
+        "href": "http://readinglists.ucl.ac.uk/modules/latn7008.html",
+        "name": "LATN7008: Latin Texts 2",
+        "file": "json/modules/latn7008.json"
+    }
+]
