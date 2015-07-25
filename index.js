@@ -4,8 +4,8 @@ var mkdirp = require('mkdirp');
 var cheerio = require('cheerio');
 
 // href = 'http://readinglists.ucl.ac.uk/index.html?browse';
-// href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
-href = 'http://readinglists.ucl.ac.uk/departments/basco_art.html';
+href = 'http://readinglists.ucl.ac.uk/faculties/art.html';
+// href = 'http://readinglists.ucl.ac.uk/departments/basco_art.html';
 // href = 'http://readinglists.ucl.ac.uk/modules/basc1001.html';
 
 getHTML(href);
@@ -13,7 +13,7 @@ getHTML(href);
 // first checks if html file is saved locally
 // if not saved, it will request it
 // once requested it will run scrape on the html
-function getHTML(href, callback) {
+function getHTML(href) {
 
     var file = 'html/' + href.split('.html')[0].split('http://readinglists.ucl.ac.uk/')[1] + '.html';
     fs.readFile(file, 'utf8', function (err, html) {
@@ -22,12 +22,13 @@ function getHTML(href, callback) {
             console.log('err: ' + err);
             if (err.errno === -2) {
                 console.log('404');
+
+                // The file isn't saved locally so have to requet it
+
                 request(href, function(err, response, html) {
                     if (err) console.log('err: ' + err);
-                    saveHTML(href, html, function() {
-                        console.log('html file saved');
-                        scrape(href, html);
-                    });
+                    saveHTML(href, html);
+                    scrape(href, html);
                 });
             }
         }
@@ -53,7 +54,10 @@ function scrape(href, html) {
     else getUnit(href, $);
 }
 
-
+// href is the href of the html sent, obviously
+// $ is the cheerio object holding all the html
+// aim here is to get a list of all the html files listed on the page to get next
+// and also to save this list as a json file for later use
 function getList(href, $) {
     var json = [];
     $('tr[data-node-uri]>td>a.nodeName').each(function() {
@@ -67,9 +71,7 @@ function getList(href, $) {
         });
         getHTML(href);
     });
-    saveJSON(href, json, function() {
-        console.log('json saved');
-    })
+    saveJSON(href, json);
 }
 
 
@@ -82,14 +84,15 @@ function getUnit(href, $) {
             $('span.isbns.invisible').each(function() {
                 json.push($(this).text());
             });
-            saveJSON(href, json, function() {
-                console.log('json saved');
-            });
+            saveJSON(href, json);
         });
+    }
+    else {
+        console.log('unit has no link, as if it doesn"t exist, spooky...');
     }
 }
 
-function saveHTML(href, html, callback) {
+function saveHTML(href, html) {
     console.log('saveHTML', 'href: ' + href);
     var file = href.split('.html')[0].split('http://readinglists.ucl.ac.uk/')[1];
     var dirp = file.split('/');
@@ -99,13 +102,12 @@ function saveHTML(href, html, callback) {
         console.log('dirp: ' + dirp, 'href: ' + href);
         fs.writeFile('html/' + file + '.html', html, function(err){
             if (err) console.log(err);
-            callback();
-            // console.log('File successfully written');
         });
     });
 }
 
-function saveJSON(href, json, callback) {
+function saveJSON(href, json) {
+    console.log('saveJSON', 'href: ' + href);
     var file = href.split('.html')[0].split('http://readinglists.ucl.ac.uk/')[1];
     var dirp = file.split('/');
     var last = dirp.pop();
@@ -114,7 +116,6 @@ function saveJSON(href, json, callback) {
         console.log('dirp: ' + dirp, 'href: ' + href);
         fs.writeFile('json/' + file + '.json', JSON.stringify(json, null, 4), function(err){
             if (err) console.log(err);
-            callback();
         });
     });
 }
