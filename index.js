@@ -42,14 +42,19 @@ function getHTML(href, callback) {
 // check the html to see if it is a unit or a list of units
 // if it is a list of units, run getList on the
 function scrape(href, html) {
+
     var $ = cheerio.load(html);
     var nodes = $('tr[data-node-uri]>td>a.nodeName');
-    if ($('tr[data-node-uri]>td>a.nodeName').length) getList(html, $);
-    else getUnit(file, $);
+
+    // it is a list of other files
+    if ($('tr[data-node-uri]>td>a.nodeName').length) getList(href, $);
+
+    // it is a unit listing books with have attached isbns
+    else getUnit(href, $);
 }
 
 
-function getList(file, $) {
+function getList(href, $) {
     var json = [];
     console.log('file: ' + file);
     $('tr[data-node-uri]>td>a.nodeName').each(function() {
@@ -63,17 +68,14 @@ function getList(file, $) {
         });
         getHTML(href);
     });
-    fs.writeFile('json/' + file + '.json', JSON.stringify(json, null, 4), function(err){
-        if (err) console.log(err);
-        // console.log('File successfully written');
-    });
+    saveJSON(href, json, function() {
+        console.log('json saved');
+    })
 }
 
 
-function getUnit(file, $) {
+function getUnit(href, $) {
     var link = $('tr>td>a[href][title]').attr('href');
-    console.log('file: ' + file);
-    console.log('link: ' + link);
     if (link) {
         request(link, function(error, response, html){
             var json = [];
@@ -81,9 +83,8 @@ function getUnit(file, $) {
             $('span.isbns.invisible').each(function() {
                 json.push($(this).text());
             });
-            fs.writeFile('./json/' + file + '.json', JSON.stringify(json, null, 4), function(err){
-                if (err) console.log(err);
-                // console.log('File successfully written');
+            saveJSON(href, json, function() {
+                console.log('json saved');
             });
         });
     }
