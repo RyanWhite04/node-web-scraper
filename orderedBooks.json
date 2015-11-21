@@ -1,0 +1,350 @@
+[{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Cambridge University Press",
+    "number": 125
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Oxford University Press",
+    "number": 72
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Wiley",
+    "number": 60
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Chapman & Hall/CRC",
+    "number": 24
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Springer",
+    "number": 22
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "McGraw-Hill",
+    "number": 18
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Academic Press",
+    "number": 18
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "University of Chicago Press",
+    "number": 18
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Addison-Wesley",
+    "number": 14
+},
+{
+    "faculty": "Mathematical and Physical Sciences",
+    "publisher": "Springer-Verlag",
+    "number": 13
+},
+{
+    "faculty": "Laws",
+    "publisher": "Oxford University Press",
+    "number": 200
+},
+{
+    "faculty": "Laws",
+    "publisher": "Cambridge University Press",
+    "number": 170
+},
+{
+    "faculty": "Laws",
+    "publisher": "Clarendon Press",
+    "number": 78
+},
+{
+    "faculty": "Laws",
+    "publisher": "Oxford University Press, USA",
+    "number": 75
+},
+{
+    "faculty": "Laws",
+    "publisher": "Hart Publishing",
+    "number": 45
+},
+{
+    "faculty": "Laws",
+    "publisher": "Routledge",
+    "number": 43
+},
+{
+    "faculty": "Laws",
+    "publisher": "Hart Publishing (UK)",
+    "number": 40
+},
+{
+    "faculty": "Laws",
+    "publisher": "Sweet & Maxwell",
+    "number": 37
+},
+{
+    "faculty": "Laws",
+    "publisher": "Adamant Media Corporation",
+    "number": 22
+},
+{
+    "faculty": "Laws",
+    "publisher": "Ashgate",
+    "number": 21
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Wiley",
+    "number": 53
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "McGraw-Hill",
+    "number": 33
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Prentice Hall",
+    "number": 22
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Addison-Wesley",
+    "number": 21
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "John Wiley & Sons",
+    "number": 20
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Harvard Business School Press",
+    "number": 19
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Cambridge University Press",
+    "number": 19
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Oxford University Press",
+    "number": 16
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Routledge",
+    "number": 11
+},
+{
+    "faculty": "Engineering Sciences",
+    "publisher": "Springer",
+    "number": 10
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Routledge",
+    "number": 141
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Zed Books",
+    "number": 31
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "MIT Press",
+    "number": 30
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Oxford University Press",
+    "number": 29
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Palgrave Macmillan",
+    "number": 27
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Cambridge University Press",
+    "number": 22
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Wiley",
+    "number": 16
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Princeton University Press",
+    "number": 15
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "Princeton Architectural Press",
+    "number": 14
+},
+{
+    "faculty": "Bartlett, Faculty of Built Environment",
+    "publisher": "University of Chicago Press",
+    "number": 13
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Cambridge University Press",
+    "number": 1831
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Routledge",
+    "number": 1741
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Oxford University Press",
+    "number": 1014
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "University of California Press",
+    "number": 400
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "University of Chicago Press",
+    "number": 370
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Princeton University Press",
+    "number": 351
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Palgrave Macmillan",
+    "number": 322
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Yale University Press",
+    "number": 294
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Oxford University Press, USA",
+    "number": 244
+},
+{
+    "faculty": "Social and Historical Sciences",
+    "publisher": "Clarendon Press",
+    "number": 239
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Cambridge University Press",
+    "number": 387
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Oxford University Press",
+    "number": 378
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Routledge",
+    "number": 309
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Clarendon Press",
+    "number": 122
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Yale University Press",
+    "number": 104
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "University of Chicago Press",
+    "number": 104
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Princeton University Press",
+    "number": 95
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "University of California Press",
+    "number": 86
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Penguin",
+    "number": 81
+},
+{
+    "faculty": "Arts & Humanities",
+    "publisher": "Penguin Books",
+    "number": 72
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Cambridge University Press",
+    "number": 315
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Oxford University Press",
+    "number": 283
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Routledge",
+    "number": 197
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Palgrave Macmillan",
+    "number": 152
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Princeton University Press",
+    "number": 139
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Longman",
+    "number": 107
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Cornell University Press",
+    "number": 99
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Yale University Press",
+    "number": 99
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "University of California Press",
+    "number": 76
+},
+{
+    "faculty": "School of Slavonic and East European Studies",
+    "publisher": "Indiana University Press",
+    "number": 74
+}]
